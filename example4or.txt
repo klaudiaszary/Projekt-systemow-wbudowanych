@@ -1,0 +1,5 @@
+ALPHABET: F,+,-
+AXIOM: F+F+F+F
+DEPTH: 1
+RULE: F -> F+F-F-FF+F+F-F
+RULE: X -> X+X

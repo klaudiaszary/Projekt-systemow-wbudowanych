@@ -1,0 +1,6 @@
+ALPHABET: F + -
+AXIOM: F+F+F+F
+ANGLE: 90
+DEPTH: 1
+RULE:  F -> FF
+
